@@ -1,10 +1,6 @@
-<<<<<<< HEAD
 b1
 b2
 b3
 b4
 b5
 b6
-=======
-b1
->>>>>>> parent of 82d1879 (Update file b.txt)
